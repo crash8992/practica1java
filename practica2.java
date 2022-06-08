@@ -15,5 +15,8 @@ public class Practica1 {
         miVariableCadena = "Adios";
         System.out.println(miVariableCadena);
 
+				String _miVariableCadena2 = "habla oee"
+				System.out.println(_miVariableCadena2)
+
     }
 }
