@@ -61,7 +61,7 @@ public class manzanas{
 
         System.out.println("familia" + familiaData);
 
-        System.out.println("fin del programa");
+        
 
         }
 }
